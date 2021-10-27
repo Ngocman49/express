@@ -1,0 +1,29 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --inspect server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngocman49/express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "ngocman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ngocman49/express/issues"
+  },
+  "homepage": "https://github.com/Ngocman49/express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
